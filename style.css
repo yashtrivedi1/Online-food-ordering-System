@@ -1,0 +1,33 @@
+body{
+background-image:url(images/DSC00034.jpg));
+background-size:contain;
+}
+.login{
+	height:500px;
+	width:300px;
+	float:left;
+	margin-left:40px;
+	margin-top:100px;
+	background:inherit;
+}
+.order{
+	height:400px;
+	width:300px;
+	float:right;
+	margin-right:190px;
+	margin-top:100px;
+	background:inherit;
+	
+}
+.inform{
+	height:40px;
+	width:300px;
+}
+.inform:hover{
+	background:#F00;
+	color:#CCC;
+}
+.inform1{
+	height:30px;
+	width:300px;
+}
